@@ -1,0 +1,7 @@
+Using the DualShock controller
+
+Have placed both the dualshock script, and the camera observer script in crontab (with "crontab -e") as reboot events.
+
+@reboot /home/pi/joystick-reader/dualshock_ROV_control.py
+@reboot /home/pi/start_receive_live_feed.sh
+

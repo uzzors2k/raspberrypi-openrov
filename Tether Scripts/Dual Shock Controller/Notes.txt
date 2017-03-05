@@ -1,0 +1,1 @@
+Only dualshock_ROV_control.py is used here. Be sure to make it executable (chmod 755), or the autostart at boot script will fail.

@@ -1,0 +1,4 @@
+Have placed rov control center script in crontab (with "crontab -e") as reboot event. Camera piping is started from it
+
+@reboot /home/pi/rovControl/rov_tcp_control_center.py
+
